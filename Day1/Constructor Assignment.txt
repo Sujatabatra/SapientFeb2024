@@ -1,0 +1,21 @@
+Exercise: Create a class called employee with the following data members
+1.	empName
+2.	empId
+3.	empAge
+4.	empdesgn
+5.	empLocation
+6.	empExpInYrs
+
+All these data members should be initialized using constructors. Use constructor overloading 
+and demonstrate by creating different employee objects with
+
+1.	Employee  name alone
+2.	Employee name and id
+3.	Employee name, id and age
+4.	Employee name, id and designation
+5.	Employee name, id, age and designation
+6.	Employee name, id, age and location
+7.	Employee name, id, age and experience
+8.	 Employee name, id, designation and experience
+9.	Employee name, id, designation, location and experience
+10.	Employee name, id, age, designation,  location and experience
